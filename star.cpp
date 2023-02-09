@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    // print pascle triangle
     cout<<"enter the input"<<endl;
     int n;
     cin>>n;
